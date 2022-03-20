@@ -4,4 +4,4 @@ We have all come across many Payment apps in our smartphone and it is built on J
 1.Transactions History
 2. Send Money
 3. Add Money
-4. Quit
+4. Quit.
